@@ -1,0 +1,14 @@
+{
+  "site": {
+    "id": "fefc3c5a-3492-4380-9b35-b343efd6ad30",
+    "team": "samuele-fleek2-team",
+    "platform": "ipfs",
+    "source": "ipfs",
+    "name": "bitter-sun-9153"
+  },
+  "build": {
+    "baseDir": "",
+    "publicDir": "build",
+    "rootDir": "/home/piraya/repos/test/github-action-test"
+  }
+}
